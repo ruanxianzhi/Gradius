@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Downloads/Dark Forest/Assets/____Scripts/Player.cs">
+    <Files>
+      <File FileName="../../../Downloads/Dark Forest/Assets/____Scripts/Controller.cs" Line="29" Column="27" />
+      <File FileName="../../../Downloads/Dark Forest/Assets/____Scripts/Player.cs" Line="122" Column="31" />
+      <File FileName="../../../Downloads/Dark Forest/Assets/____Scripts/TransferData.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/Dark Forest/Assets/____Scripts/Signal.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/Dark Forest/Assets/____Scripts/Bullet.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/Dark Forest/Assets/____Scripts/StartGame2.cs" Line="28" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
